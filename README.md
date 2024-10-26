@@ -26,7 +26,7 @@ This project explores how well various machine learning models can predict the l
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Heart-Disease-Prediction.git
+    git clone https://github.com/Tanjim-Islam/Heart-Disease-Prediction.git
     cd Heart-Disease-Prediction
     ```
 

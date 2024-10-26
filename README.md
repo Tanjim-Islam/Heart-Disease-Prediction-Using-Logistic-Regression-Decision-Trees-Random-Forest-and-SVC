@@ -27,7 +27,7 @@ This project explores how well various machine learning models can predict the l
 
     ```bash
     git clone https://github.com/Tanjim-Islam/Heart-Disease-Prediction-Using-Logistic-Regression-Decision-Trees-Random-Forest-and-SVC.git
-    cd Heart-Disease-Prediction
+    cd Heart-Disease-Prediction-Using-Logistic-Regression-Decision-Trees-Random-Forest-and-SVC
     ```
 
 2. Install the necessary dependencies:
